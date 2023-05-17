@@ -2059,7 +2059,7 @@
       </FillStyle>
       <FillStyle>
         <Id>183</Id>
-        <Name>TestStyle1</Name>
+        <Name>TestStyle2</Name>
         <Comment/>
         <ParentId>Def.FillStyleGroup</ParentId>
         <IndexInParent>51</IndexInParent>
@@ -9626,7 +9626,7 @@
       </FillStyle>
       <FillStyle>
         <Id>183</Id>
-        <ColorId>228</ColorId>
+        <ColorId>229</ColorId>
         <Offset X="0" Y="0"/>
         <Rotation>0</Rotation>
         <Skew>0</Skew>
